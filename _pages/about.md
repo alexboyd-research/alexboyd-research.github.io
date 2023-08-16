@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alex Boyd"
+title: 
 excerpt: "Alex Boyd"
 author_profile: true
 redirect_from: 
