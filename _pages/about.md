@@ -17,7 +17,7 @@ Papers
 ======
 __[Inference for Mark-Censored Temporal Point Processes](https://proceedings.mlr.press/v216/boyd23a.html)__  
 __Alex Boyd__, Yuxin Chang, Stephan Mandt, Padhraic Smyth  
-_Conference on Uncertainty in Artificial Intelligence (UAI), 2023_  
+_Conference on Uncertainty in Artificial Intelligence (UAI), 2023_  **[Spotlight Presentation]**
 
 __[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
 Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
@@ -25,11 +25,11 @@ _Preprint (currently under review), 2023_
  
 __[Probabilistic Querying of Continuous-Time Event Sequences](https://proceedings.mlr.press/v206/boyd23a.html)__  
 __Alex Boyd__, Yuxin Chang, Stephan Mandt, Padhraic Smyth  
-_International Conference on Artificial Intelligence and Statistics (AIStats), 2023_  
+_International Conference on Artificial Intelligence and Statistics (AIStats), 2023_
 
 __[Predictive Querying for Autoregressive Neural Sequence Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9622163c87b67fd5a4a0ec3247cf356e-Abstract-Conference.html)__  
 __Alex Boyd\*__, Samuel Showalter\*, Stephan Mandt, Padhraic Smyth  
-_Neural Information Processing Systems (NeurIPS). 2022_  
+_Neural Information Processing Systems (NeurIPS). 2022_ **[Oral Presentation]**
 
 __[Structured Stochastic Gradient MCMC](https://proceedings.mlr.press/v162/alexos22a.html)__  
 Antonios Alexos\*, __Alex Boyd\*__, Stephan Mandt  
