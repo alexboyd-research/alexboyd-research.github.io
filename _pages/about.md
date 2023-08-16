@@ -28,11 +28,11 @@ __Alex Boyd__, Yuxin Chang, Stephan Mandt, Padhraic Smyth
 _International Conference on Artificial Intelligence and Statistics (AIStats), 2023_  
 
 __[Predictive Querying for Autoregressive Neural Sequence Models](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9622163c87b67fd5a4a0ec3247cf356e-Abstract-Conference.html)__  
-__Alex Boyd*__, Samuel Showalter*, Stephan Mandt, Padhraic Smyth  
+__Alex Boyd\*__, Samuel Showalter\*, Stephan Mandt, Padhraic Smyth  
 _Neural Information Processing Systems (NeurIPS). 2022_  
 
 __[Structured Stochastic Gradient MCMC](https://proceedings.mlr.press/v162/alexos22a.html)__  
-Antonios Alexos*, __Alex Boyd*__, Stephan Mandt  
+Antonios Alexos\*, __Alex Boyd\*__, Stephan Mandt  
 _International Conference on Machine Learning (ICML), 2022_  
 
 __[Detecting and Adapting to Irregular Distribution Shifts in Bayesian Online Learning](https://proceedings.neurips.cc/paper/2021/hash/362387494f6be6613daea643a7706a42-Abstract.html)__  
@@ -44,7 +44,7 @@ Preston Putzel, Hyungrok Do, __Alex Boyd__, Hua Zhong, Padhraic Smyth
 _Machine Learning for Healthcare Conference (MLHC), 2021_  
 
 __[Large Scale Multi-Actor Generative Dialog Modeling](https://aclanthology.org/2020.acl-main.8/)__  
-__Alex Boyd*__, Raul Puri*, Mohammad Shoeybi, Mostofa Patwary, Bryan Catanzaro  
+__Alex Boyd\*__, Raul Puri\*, Mohammad Shoeybi, Mostofa Patwary, Bryan Catanzaro  
 _Association for Computational Linguistics (ACL). 2020_  
 
 __[User-Dependent Neural Sequence Models for Continuous-Time Event Data](https://proceedings.neurips.cc/paper/2020/hash/f56de5ef149cf0aedcc8f4797031e229-Abstract.html)__  
