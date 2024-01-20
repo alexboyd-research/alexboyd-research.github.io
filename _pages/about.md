@@ -21,11 +21,11 @@ _Preprint (currently under review), 2023_
 
 __[Probabilistic Modeling for Sequences of Sets in Continuous-Time](https://arxiv.org/abs/2312.15045)__  
 Yuxin Chang, __Alex Boyd__, Padhraic Smyth  
-_(To Appear) International Conference on Artificial Intelligence and Statistics (AIStats), 2024_  **[Oral Presentation]**
+_International Conference on Artificial Intelligence and Statistics (AIStats), 2024_  **[Oral Presentation]**
 
 __[Bayesian Online Learning for Consensus Prediction](https://arxiv.org/abs/2312.07679)__  
 Samuel Showalter\*, __Alex Boyd\*__, Padhraic Smyth, Mark Steyvers  
-_(To Appear) International Conference on Artificial Intelligence and Statistics (AIStats), 2024_
+_International Conference on Artificial Intelligence and Statistics (AIStats), 2024_
 
 __[Inference for Mark-Censored Temporal Point Processes](https://proceedings.mlr.press/v216/boyd23a.html)__  
 __Alex Boyd__, Yuxin Chang, Stephan Mandt, Padhraic Smyth  
