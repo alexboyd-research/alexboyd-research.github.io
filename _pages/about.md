@@ -17,7 +17,7 @@ Papers
 ======
 __[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
 Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
-_Preprint (currently under review), 2023_  
+_Preprint (currently under review), 2024_  
 
 __[Probabilistic Modeling for Sequences of Sets in Continuous-Time](https://arxiv.org/abs/2312.15045)__  
 Yuxin Chang, __Alex Boyd__, Padhraic Smyth  
