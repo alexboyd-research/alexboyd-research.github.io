@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a statistics PhD candidate at the [University of California, Irvine](https://uci.edu/) advised by [Dr. Padhraic Smyth](https://www.ics.uci.edu/~smyth/) and [Dr. Stephan Mandt](http://www.stephanmandt.com/). My research largely focuses on (deep) probabilistic machine learning methods and probabilistically reasoning about sequential data. In particular, my primarly line of work is investigating efficient methods of evaluating various probablistic queries of black-box sequential models (e.g., large language models, temporal point processes, etc.) that extend beyond immediate next value prediction. 
 
-I have been fortunate to have the opportunity to research these topics and others due to receiving a NSF Graduate Research Fellowship in 2020. Prior to starting my PhD program, I received a Bachelor's of Science degree in software engineering with a minor in data science at the [California Polytechnic State University, San Luis Obispo](https://www.calpoly.edu/) under the advisement of [Dr. Dennis Sun](https://dlsun.github.io/). I have also conducted machine learning research as an intern at [Apple](https://www.apple.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/), and [NVIDIA](https://nv-adlr.github.io/).
+I am a AI research scientist at [GE Healthcare](https://www.gehealthcare.com/). My research largely focuses on (deep) probabilistic machine learning methods for healthcare applications, specifically for sequential and multi-modal settings. Prior to joining GE Healthcare, I was a statistics PhD student at the [University of California, Irvine](https://uci.edu/) under the advisement of [Dr. Padhraic Smyth](https://www.ics.uci.edu/~smyth/) and [Dr. Stephan Mandt](http://www.stephanmandt.com/).  
+While there, my primarly research pertained to investigating efficient methods of evaluating various probablistic queries of black-box sequential models (e.g., large language models, temporal point processes, etc.) that extend beyond immediate next value prediction. 
+
+I was fortunate to have the opportunity to research these topics and others during my PhD due to receiving a NSF Graduate Research Fellowship in 2020. Prior to starting my PhD program, I received a Bachelor's of Science degree in software engineering with a minor in data science at the [California Polytechnic State University, San Luis Obispo](https://www.calpoly.edu/) under the advisement of [Dr. Dennis Sun](https://dlsun.github.io/). I have also conducted machine learning research as an intern at [Apple](https://www.apple.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/), and [NVIDIA](https://nv-adlr.github.io/).
 
 
 Papers
 ======
+__[On the Efficient Marginalization of Probabilistic Sequence Models](http://alexboyd-research.github.io/files/phd_thesis.pdf)__
+__Alex Boyd__
+_PhD Dissertation, 2024_
+
 __[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
 Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
 _Preprint (currently under review), 2024_  
