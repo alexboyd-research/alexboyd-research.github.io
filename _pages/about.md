@@ -17,9 +17,9 @@ I was fortunate to have the opportunity to research these topics and others duri
 
 Papers
 ======
-__[On the Efficient Marginalization of Probabilistic Sequence Models](http://alexboyd-research.github.io/files/phd_thesis.pdf)__
-__Alex Boyd__
-_PhD Dissertation, 2024_
+__[On the Efficient Marginalization of Probabilistic Sequence Models](http://alexboyd-research.github.io/files/phd_thesis.pdf)__  
+__Alex Boyd__  
+_PhD Dissertation, 2024_  
 
 __[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
 Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
