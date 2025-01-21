@@ -17,25 +17,28 @@ I was fortunate to have the opportunity to research these topics and others duri
 
 Papers
 ======
+__[Deep Linear Hawkes Processes](https://arxiv.org/abs/2412.19634)__
+Yuxin Chang\*, __Alex Boyd\*__, Cao Xiao, Taha Kass-Hout, Parminder Bhatia, Padhraic Smyth, Andrew Warrington _Preprint (currently under review), 2025_
+
+__[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
+Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
+_Uncertainty in Artificial Intelligence (UAI), 2024_  **[Oral Presentation]**
+
 __[On the Efficient Marginalization of Probabilistic Sequence Models](https://arxiv.org/abs/2403.04005)__  
 __Alex Boyd__  
 _PhD Dissertation, 2024_  
 
-__[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
-Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
-_Preprint (currently under review), 2024_  
-
 __[Probabilistic Modeling for Sequences of Sets in Continuous-Time](https://arxiv.org/abs/2312.15045)__  
 Yuxin Chang, __Alex Boyd__, Padhraic Smyth  
-_(To Appear) International Conference on Artificial Intelligence and Statistics (AIStats), 2024_  **[Oral Presentation]**
+_International Conference on Artificial Intelligence and Statistics (AIStats), 2024_  **[Oral Presentation]**
 
 __[Bayesian Online Learning for Consensus Prediction](https://arxiv.org/abs/2312.07679)__  
 Samuel Showalter\*, __Alex Boyd\*__, Padhraic Smyth, Mark Steyvers  
-_(To Appear) International Conference on Artificial Intelligence and Statistics (AIStats), 2024_
+_International Conference on Artificial Intelligence and Statistics (AIStats), 2024_
 
 __[salmon: A Symbolic Linear Regression Package for Python](https://arxiv.org/abs/1911.00648)__  
 __Alex Boyd__, Dennis Sun  
-_(To Appear) Journal of Statistical Software, 2024_
+_Journal of Statistical Software, 2024_
 
 __[Inference for Mark-Censored Temporal Point Processes](https://proceedings.mlr.press/v216/boyd23a.html)__  
 __Alex Boyd__, Yuxin Chang, Stephan Mandt, Padhraic Smyth  
