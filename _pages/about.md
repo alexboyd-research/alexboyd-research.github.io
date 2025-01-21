@@ -17,8 +17,9 @@ I was fortunate to have the opportunity to research these topics and others duri
 
 Papers
 ======
-__[Deep Linear Hawkes Processes](https://arxiv.org/abs/2412.19634)__
-Yuxin Chang\*, __Alex Boyd\*__, Cao Xiao, Taha Kass-Hout, Parminder Bhatia, Padhraic Smyth, Andrew Warrington _Preprint (currently under review), 2025_
+__[Deep Linear Hawkes Processes](https://arxiv.org/abs/2412.19634)__  
+Yuxin Chang\*, __Alex Boyd\*__, Cao Xiao, Taha Kass-Hout, Parminder Bhatia, Padhraic Smyth, Andrew Warrington  
+_Preprint (currently under review), 2025_
 
 __[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
 Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
