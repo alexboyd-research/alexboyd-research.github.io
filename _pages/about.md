@@ -14,12 +14,33 @@ While there, my research primarily pertained to investigating efficient methods 
 
 I was fortunate to have the opportunity to research these topics and others during my PhD due to receiving a NSF Graduate Research Fellowship in 2020. Prior to starting my PhD program, I received a Bachelor's of Science degree in software engineering with a minor in data science at the [California Polytechnic State University, San Luis Obispo](https://www.calpoly.edu/) under the advisement of [Dr. Dennis Sun](https://dlsun.github.io/). I have also conducted machine learning research as an intern at [Apple](https://www.apple.com/), [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/), and [NVIDIA](https://nv-adlr.github.io/).
 
-
-Papers
+Under Submission
 ======
-__[Deep Linear Hawkes Processes](https://arxiv.org/abs/2412.19634)__  
-Yuxin Chang\*, __Alex Boyd\*__, Cao Xiao, Taha Kass-Hout, Parminder Bhatia, Padhraic Smyth, Andrew Warrington  
-_Preprint (currently under review), 2025_
+__[Hyper Hawkes Processes: Interpretable Models of Marked Temporal Point Processes](https://arxiv.org/abs/2511.01096)__  
+__Alex Boyd__, Andrew Warrington, Taha Kass-Hout, Parminder Bhatia, Danica Xiao  
+_Preprint (currently under review), 2025_  
+
+__MedSight: Towards Grounded Visual Comprehension in Medical Large Vision-Language Models__  
+Aofei Chang, Le Huang, __Alex Boyd__, Parminder Bhatia, Taha Kass-Hout, Cao Xiao, Fenglong Ma  
+_Preprint (currently under review), 2025_  
+
+__[ST-PPO: Stabilized Off-Policy Proximal Policy Optimization for Multi-Turn Agents Training](https://arxiv.org/abs/2511.20718)__  
+Chenliang Li, Adel Elmahdy, __Alex Boyd__, Zhongruo Wang, Alfredo Garcia, Parminder Bhatia, Taha Kass-Hout, Cao Xiao, Mingyi Hong  
+_Preprint (currently under review), 2025_  
+
+Publications
+======
+__[Deep Continuous-Time State-Space Models for Marked Event Sequences](https://arxiv.org/abs/2412.19634)__    
+Yuxin Chang\*, __Alex Boyd\*__, Cao Xiao, Taha Kass-Hout, Parminder Bhatia, Padhraic Smyth, Andrew Warrington    
+__Neural Information Processing Systems (NeurIPS), 2025_  **[Spotlight Presentation]**  
+
+__[Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning](https://arxiv.org/abs/2505.18503)__  
+Aofei Chang, Le Huang, __Alex Boyd__, Parminder Bhatia, Taha Kass-Hout, Cao Xiao, Fenglong Ma  
+_Association for Computational Linguistics (ACL), 2025_   
+
+__[Bayesian Inference for Correlated Human Experts and Classifiers](https://arxiv.org/abs/2506.05636)__  
+Markelle Kelly, __Alex Boyd__, Sam Showalter, Mark Steyvers, Padhraic Smyth  
+_International Conference on Machine Learning (ICML), 2025_
 
 __[Understanding Pathologies of Deep Heteroskedastic Regression](https://arxiv.org/abs/2306.16717)__  
 Eliot Wong-Toi, __Alex Boyd__, Vincent Fortuin, Stephan Mandt  
